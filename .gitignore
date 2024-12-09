@@ -1,0 +1,20 @@
+/bin/
+
+/target/
+
+/out/
+
+.idea/
+
+*.iml
+*.iws
+*.ipr
+
+Thumbs.db   # Для Windows
+
+*.log
+*.tmp
+
+/.mvn/
+
+/.idea/.idea_modules
